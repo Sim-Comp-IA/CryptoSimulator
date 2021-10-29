@@ -1,0 +1,2 @@
+# CryptoSimulator
+Cryptocurrency market simulator.
