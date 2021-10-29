@@ -23,7 +23,7 @@ Se definirá un lenguaje de dominio específico para poder configurar, personali
 
 A continuación mostramos un ejemplo de un esquema general de la idea de nuestro proyecto.
 
-![image-20211029012750978](.\img.png)
+![image-20211029012750978](./img.png)
 
 Se pretende simular los precios de distintas monedas en el mercado y sobre este algunos entes simulados y/o con IA puedan interactuar.
 
