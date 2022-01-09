@@ -25,8 +25,8 @@ En la red queremos modelar como el resultado de las operaciones finacieras van a
 **tabla de Distribuciones Condicionales**
 
 |   |A | A | B | B |
-Operación Final(OP)|FS | FI | FS | FI|
 |---|---|---|---|---|
+Operación Final(OP) |FS | FI | FS | FI|
 |Ganancia(G) | 0.95 | 0.4| 0.7 | 0.25| 
 Pérdida(P) | 0.95| 0.6| 0.3 |0.75|  
 
